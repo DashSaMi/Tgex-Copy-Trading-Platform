@@ -1,0 +1,6 @@
+{
+  "name": "Tgex - Copy Trading Marketing Platform",
+  "description": "The public fintech platform uniting institutional copy trading connectivity with a structured 20-level marketing network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
